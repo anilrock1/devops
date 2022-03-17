@@ -1,0 +1,15 @@
+git is a local repository 
+github is a central repository
+jenkins
+maven
+configuration tool 
+chef
+ansible
+repositories
+projects 
+open sourece code
+cloud storege
+splunk
+wipro , tcs , capgemini ,genpact
+softwere IT industires 
+manegement tool 
